@@ -2,20 +2,6 @@
 
 Welcome to the Guess My Number Game! This web-based application challenges you to guess a number between 1 and 20.
 
-## Gameplay
-
-The objective of the game is to guess the correct number chosen by the system. Here's how the game works:
-
-1. The system assigns a random number between 0 and 20.
-
-2. You, as the player, enter your guessed number in the input field provided.
-
-3. If your guessed number matches the system's number, the screen will change to green, indicating that you have won the game. Congratulations! You can then click the "Play Again" button to start a new game.
-
-4. If your guessed number is incorrect, the game will provide you with a hint. The hint will indicate whether your guessed number is higher or lower than the system's number. Use this hint to adjust your next guess.
-
-5. Repeat steps until you guess the correct number and win the game.
-
 ## Technologies Used
 
 The Galaxy Explorer website is built using the following technologies:
@@ -25,6 +11,20 @@ The Galaxy Explorer website is built using the following technologies:
 - **CSS**: CSS is used for styling the user interface and making the website visually appealing.
 
 - **JavaScript**: JavaScript is responsible for the functionality of the app, handling user interactions.
+
+## Gameplay
+
+The objective of the game is to guess the correct number chosen by the system. Here's how the game works:
+
+1. The system assigns a random number between 1 and 20.
+
+2. You, as the player, enter your guessed number in the input field provided.
+
+3. If your guessed number matches the system's number, the screen will change to green, indicating that you have won the game. Congratulations! You can then click the "Play Again" button to start a new game.
+
+4. If your guessed number is incorrect, the game will provide you with a hint. The hint will indicate whether your guessed number is higher or lower than the system's number. Use this hint to adjust your next guess.
+
+5. Repeat steps until you guess the correct number and win the game.
 
 ## Installation
 
