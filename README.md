@@ -12,7 +12,7 @@ The Galaxy Explorer website is built using the following technologies:
 
 - **JavaScript**: JavaScript is responsible for the functionality of the app, handling user interactions.
 
-## Gameplay
+## Gameplay 
 
 The objective of the game is to guess the correct number chosen by the system. Here's how the game works:
 
