@@ -2,9 +2,9 @@
 
 ![guess-num-mock](https://github.com/john-aja/Guess-My-Number/assets/95049418/e15b847e-8b46-48ad-adcf-b63c9067b981)
 
-To open the website in a browser, please click on the following link : https://guessnumberapp.netlify.app/
-
 Welcome to the Guess My Number Game! This web-based application challenges you to guess a number between 1 and 20.
+
+To open the website in a browser, please click on the following link : https://guessnumberapp.netlify.app/
 
 ## Technologies Used
 
