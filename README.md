@@ -1,6 +1,6 @@
 # Guess My Number Game
 
-![guess-num-mock](https://github.com/john-aja/Guess-My-Number/assets/95049418/e15b847e-8b46-48ad-adcf-b63c9067b981)
+![GUESS NUMBER](https://github.com/john-aja/Guess-My-Number/assets/95049418/c1501f21-cb94-49c7-960b-8e70dca88fb0)
 
 Welcome to the Guess My Number Game! This web-based application challenges you to guess a number between 1 and 20.
 
